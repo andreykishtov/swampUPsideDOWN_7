@@ -26,6 +26,7 @@ Fueled by his company's (totally not obsessive) disdain for frogs, Arnold embark
 
 Contributions are what make the open-source community such an amazing place. Any contributions you make are **greatly appreciated**. Just remember:
 
+
 - **Fork this repo, and open a Pull Request, we will make sure to run our anti-frog linters and automations on it before we approve them.**
 
 - **No frogs allowed** in code comments or variable names.
